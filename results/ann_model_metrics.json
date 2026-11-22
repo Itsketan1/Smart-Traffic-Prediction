@@ -1,0 +1,9 @@
+{
+    "model": "Improved ANN - Log Target and Huber Loss",
+    "mae": 14.818564414978027,
+    "rmse": 39.05391468154153,
+    "r2": 0.6237924098968506,
+    "train_records": 7004,
+    "test_records": 1756,
+    "test_start": "2023-01-17 10:15:00"
+}

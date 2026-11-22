@@ -1,0 +1,13 @@
+{
+    "model": "RandomForestRegressor",
+    "target": "next_5_minute_total_vehicles",
+    "train_records": 7004,
+    "test_records": 1756,
+    "test_start": "2023-01-17 10:15:00",
+    "mae": 12.608140778167122,
+    "rmse": 36.71639035428483,
+    "r2": 0.667479593905682,
+    "baseline_mae": 13.174829157175399,
+    "baseline_rmse": 37.20790186607714,
+    "baseline_r2": 0.6585172993288447
+}

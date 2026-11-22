@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+venv/
+.venv/
+.streamlit/secrets.toml
+data/real_world/traffic/
+data/processed_data_experiment.npz
+models/*_experiment.*
+models/*_backup.*
+results/*experiment*
+.DS_Store
+Thumbs.db
